@@ -95,14 +95,14 @@ const Footer = () => {
 
             <div>
               <div className="flex items-center gap-3 mt-6">
-                <a href="#">
+                <a href="https://www.linkedin.com/in/jamalkhanjk/">
+                  <FaLinkedin className="text-3xl" />
+                </a>
+                <a href="https://www.instagram.com/jamalkhan_jk_official/">
                   <FaInstagram className="text-3xl" />
                 </a>
-                <a href="#">
+                <a href="https://www.facebook.com/jamalkhanjay/">
                   <FaFacebook className="text-3xl" />
-                </a>
-                <a href="#">
-                  <FaLinkedin className="text-3xl" />
                 </a>
               </div>
               <div className="mt-6">
