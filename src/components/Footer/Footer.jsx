@@ -49,7 +49,7 @@ const Footer = () => {
               Glitzy Store
             </h1>
             <p>
-              Discover the latest trends and unique finds at [Store Name], your
+              Discover the latest trends and unique finds at Glitzy Store, your
               go-to destination for stylish, affordable, and quality products.
             </p>
           </div>
